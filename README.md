@@ -6,7 +6,7 @@ An implementation of RSA-NET using TensorFlow (work in progress).
 We upload part of training samples to run our model in '/train/' for demo. 
 Complete dHCP and NeoBrains12 can be achieved from each website of database or you can replace with your own data sets.
 
-When you use your own unlabeled data, you need to register the training images and labels of the source domain to your data through 3D linear registration or registration network. Then, RAS-NET domain adaptive transfer can be carried out. For data format, please refer to' x',' y' and' z' in the training example files.
+When you use your own unlabeled data, you need to register the training images and labels of the source domain to your data through 3D linear registration or registration network. Then, RAS-NET domain adaptive transfer can be carried out. For data format, please refer to' x',' y' and' z' in the training example files.(x:label image,y:source domain,z:target domain)
 
 
 ## Environment
