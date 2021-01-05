@@ -53,6 +53,7 @@ optional arguments:
 
 
 ## Inference
+```
 usage: inf_gen.py [--model MODEL] [--model1 MODEL1] [--model2 MODEL2]
 			[--image_size IMAGE_SIZE]
 			[--valPath VALPATH] 
@@ -114,6 +115,7 @@ optional arguments:
                        Generated Target domain Generator Model path of RAS, default:  
   --checkpoint_dir CHECKPOINT_DIR
                        Model checkpoint path
+```
 
 
 
